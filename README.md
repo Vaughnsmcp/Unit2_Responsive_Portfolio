@@ -4,7 +4,7 @@
 By _**Vaughn McPherson**_
 
 
-![TitlePageImage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deccanherald.com%2Fnational%2Fnorth-and-central%2Fcartoon-cm-kejriwal-to-hold-no-portfolio-806048.html&psig=AOvVaw2oermwamNGFy9Lvq6-kSQY&ust=1589656201728000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOin4ZrJtukCFQAAAAAdAAAAABAE)
+![TitlePageImage](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrcCs02TFEcqPQdtbYGLu1BVT4QYfFtetNoZa1QXrpl43IymlG&usqp=CAU)
 
 
 ## Description
