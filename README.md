@@ -4,11 +4,11 @@
 By _**Vaughn McPherson**_
 
 
-![TitlePageImage]()
+![TitlePageImage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deccanherald.com%2Fnational%2Fnorth-and-central%2Fcartoon-cm-kejriwal-to-hold-no-portfolio-806048.html&psig=AOvVaw2oermwamNGFy9Lvq6-kSQY&ust=1589656201728000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOin4ZrJtukCFQAAAAAdAAAAABAE)
 
 
 ## Description
-This is my basic responsive portfolio. Click on the links to interact with the page.
+This is a basic responsive portfolio. Click on the links to interact with the page.
 
 
 ## Setup/Installation Requirements
@@ -22,6 +22,7 @@ _No known bugs._
 ## Technologies Used
 * _HTML_
 * _CSS_
+* _BootStrap_
 
 
 
